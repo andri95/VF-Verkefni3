@@ -12,4 +12,5 @@ What is one way AR can currently enhance social media?
 *It allows users to digitally augment and manipulate faces*  
 **2 og 3**  
 Lenti í miklu veseni með ARKit og Xcode, aðallega með að installa xcode. Er búinn að vera núna í 4 daga með það í gangi í appstore en það gerist aldrei neitt. Færði mig því yfir í Unity og Vuforia. Náði að prufa aðeins þar en þegar það kom að því að gera það að appi fyrir iPhone þarf ég náttúrulega Xcode til þess þannig það fór allt í vaskinn. En ég læt það sem ég náði að gera í Unity fylgja hér fyrir ofan og link af youtube videoi hér að neðan:  
+https://youtu.be/uArbthRGEYs
 
